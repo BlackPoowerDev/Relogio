@@ -1,4 +1,4 @@
-# ☁️ Relogio digital
+# ⏰ Relogio digital
 
 # ✔️ Tecnologias utilizadas 
 
